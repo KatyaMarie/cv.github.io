@@ -1,0 +1,19 @@
+.colorText {
+	color: #4A0FE5;
+}
+.italicsText {
+	font-style: italic
+}
+
+.divCentered {
+	padding-left:  15%;
+	padding-top: 15px;
+}
+
+.divSpace {
+	padding-top:  50px;
+}
+
+.divMoreSpace {
+	padding-top:  75px;
+}
